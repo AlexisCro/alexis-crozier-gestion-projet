@@ -19,4 +19,19 @@ We can :
 - define the knowledges
 - define the budget
 - define the time
- 
+
+
+### Elaborate the project
+Which resource will be affected to which task and for how many times. 
+- material
+- poeple
+
+### Project conduct
+- maximise the project value
+- reliable ressources and planning
+- develop team 
+
+## Financial 
+- sponsoring
+- game
+- advises
