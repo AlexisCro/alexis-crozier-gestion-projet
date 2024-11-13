@@ -35,3 +35,35 @@ Which resource will be affected to which task and for how many times.
 - sponsoring
 - game
 - advises
+
+### Dépenses
+Presta hébergement
+Paiement développeur 
+Nom de domaine
+
+### Indicateurs
+
+### Risques
+3 axes
+Temps
+analys
+pilotage
+
+#### Temps
+Cycle
+- spécifications
+- developpement
+- release
+
+#### Analyse
+conceptuel to concret
+variable selon les phases
+UML & Merise
+
+Optimisation du code 
+Problème d'évolution avoid
+
+#### Pilotage
+contrôle 
+gestion des aléas
+prises de décision
